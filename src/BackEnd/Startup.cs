@@ -16,7 +16,7 @@ using BackEnd.Data;
 [assembly: ApiConventionType(typeof(DefaultApiConventions))]
 
 namespace BackEnd
-{
+{// this is a comment
     public class Startup
     {
         public Startup(IConfiguration configuration)
